@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|c:\\unity\\sparta\\thirdweekproject\\spartametabus\\assets\\scripts\\flappynpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flappynpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\flappyplane\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flappyplane\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\flappyplane\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flappyplane\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\flappyplane\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flappyplane\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\flappyplane\\bglooper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flappyplane\\bglooper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\weapon\\meleeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\weapon\\meleeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\weapon\\meleeweaponstatemachinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\weapon\\meleeweaponstatemachinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\player\\playerstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\stat\\basestat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\stat\\basestat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\stat\\idamagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\stat\\idamagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\stat\\iattackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\stat\\iattackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\state\\playerstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\state\\playerstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\stat\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\stat\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\state\\playerattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\state\\playerattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\state\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\state\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\state\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\state\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\state\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\state\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\state\\playerdeathstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\state\\playerdeathstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\assets\\scripts\\common\\stat\\imovehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C9F7F-EE0B-7701-5752-503C82853EA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\stat\\imovehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:38:46.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyPlane\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlappyPlane\\Player.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyPlane\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlappyPlane\\Player.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:18:44.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyPlane\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlappyPlane\\GameManager.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyPlane\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlappyPlane\\GameManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:17:33.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyPlane\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlappyPlane\\UIManager.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyPlane\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlappyPlane\\UIManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:16:35.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlappyNpc.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyNpc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlappyNpc.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyNpc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlappyNpc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:03:10.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BgLooper.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyPlane\\BgLooper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlappyPlane\\BgLooper.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\FlappyPlane\\BgLooper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlappyPlane\\BgLooper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:35:20.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:12:35.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeleeWeaponStateMachineBehaviour.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Weapon\\MeleeWeaponStateMachineBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Weapon\\MeleeWeaponStateMachineBehaviour.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Weapon\\MeleeWeaponStateMachineBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Weapon\\MeleeWeaponStateMachineBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:02:21.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:53:04.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeaponHandler.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Weapon\\WeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Weapon\\WeaponHandler.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Weapon\\WeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Weapon\\WeaponHandler.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:05:56.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:54:05.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:33:56.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MeleeWeaponHandler.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Weapon\\MeleeWeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Weapon\\MeleeWeaponHandler.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Weapon\\MeleeWeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Weapon\\MeleeWeaponHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:17:48.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAttackHandler.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\IAttackHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Stat\\IAttackHandler.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\IAttackHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Stat\\IAttackHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:21:26.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDamageHandler.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\IDamageHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Stat\\IDamageHandler.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\IDamageHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Stat\\IDamageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:21:35.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerStat.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Player\\PlayerStat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStat.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Player\\PlayerStat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:17:08.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\CameraController.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\CameraController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:57:00.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\State\\State.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\State.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\State\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:20:50.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:01:46.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseStat.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\BaseStat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Stat\\BaseStat.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\BaseStat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Stat\\BaseStat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:20:14.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerStates.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerStates.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\State\\PlayerStates.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerStates.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\State\\PlayerStates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:07:40.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\BaseController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Stat\\BaseController.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\BaseController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Stat\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:57:25.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayerAttackState.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\State\\PlayerAttackState.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\State\\PlayerAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:08:42.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerMoveState.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\State\\PlayerMoveState.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerMoveState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\State\\PlayerMoveState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:45:56.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerJumpState.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerJumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\State\\PlayerJumpState.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerJumpState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\State\\PlayerJumpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:46:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\State\\PlayerIdleState.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\State\\PlayerIdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:27:35.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerDeathState.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerDeathState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\State\\PlayerDeathState.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\State\\PlayerDeathState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\State\\PlayerDeathState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:46:30.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMoveHandler.cs",
+              "DocumentMoniker": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\IMoveHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Stat\\IMoveHandler.cs",
+              "ToolTip": "C:\\Unity\\Sparta\\ThirdWeekProject\\SpartaMetabus\\Assets\\Scripts\\Common\\Stat\\IMoveHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Stat\\IMoveHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:21:43.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
